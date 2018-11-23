@@ -15,9 +15,9 @@ This is the javascript library this will help our image repositioning work easie
 
 ## Authors
 
-* **Anandraj Rajendran** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+* **Anandraj Rajendran** - *Initial work* - [Anandyson](https://github.com/anandyson)
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/anandyson/repo/contributors) who participated in this project.
 
 ## License
 
