@@ -17,7 +17,7 @@ This is the javascript library this will help our image repositioning work easie
 
 * **Anandraj Rajendran** - *Initial work* - [Anandyson](https://github.com/anandyson)
 
-See also the list of [contributors](https://github.com/anandyson/repo/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/anandyson/ImageRepositioner/contributors) who participated in this project.
 
 ## License
 
