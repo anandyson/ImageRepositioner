@@ -6,7 +6,7 @@ This is the javascript library this will help our image repositioning work easie
 * It will work only if there only one image under one div container
 ## Installing
 ## step1
-* step 1: Add the class #irpcon to the div container you need
+* step 1: Add the class irpcon to the div container you need
 ## step2
 * step 2: Add "data-position" center or left or right to same div container
 ## step3
