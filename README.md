@@ -2,6 +2,8 @@
 
 This is the javascript library this will help our image repositioning work easier
 
+## Condition
+* It will work only if there only one image under one div container
 ## Installing
 ## step1
 * step 1: Add the class #irpcon to the div container you need
