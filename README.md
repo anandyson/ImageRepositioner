@@ -4,9 +4,12 @@ This is the javascript library this will help our image repositioning work easie
 
 ## Problem Statement
 * Developers facing difficulty while they have a dynamic images to position for the different size of the containers
+* focusing the image for different sizes of image
 
 ## Solution
 * Developers can use this plugin to position their image in a container. If the image size is more than the container plugin fits in the image into container and based on their need they can position the image by giving position as a data attribute in the container
+* User can have many containers to make the alignment
+* If the image is smaller than the container it will automatically centers the image
 
 ## Condition
 * It will work only if there only one image under one div container
