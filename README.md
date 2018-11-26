@@ -13,6 +13,7 @@ This is the javascript library this will help our image repositioning work easie
 
 ## Condition
 * It will work only if there only one image under one div container
+
 ## Installing
 ## step1
 * step 1: Add the class irpcon to the div container you need
@@ -33,7 +34,7 @@ This is the javascript library this will help our image repositioning work easie
 ```
 Please refer the below link for clarification
 ```
-https://codepen.io/anandscode/pen/oQyyde
+(https://codepen.io/anandscode/pen/oQyyde)
 ```
 Please find the below CDN script
 ```
