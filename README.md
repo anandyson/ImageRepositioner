@@ -31,6 +31,14 @@ This is the javascript library this will help our image repositioning work easie
   $('div').imgrepos();
 });
 ```
+Please refer the below link for clarification
+```
+https://codepen.io/anandscode/pen/oQyyde
+```
+Please find the below CDN script
+```
+<script src="https://cdn.jsdelivr.net/gh/anandyson/ImageRepositioner/imgrepos.js"></script>
+```
 
 ## Authors
 
